@@ -1,2 +1,3 @@
 # 7am_SC1
-this is for testing
+owner:sreekanth
+jenkisurl:http://jenkin.com
